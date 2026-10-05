@@ -2487,6 +2487,7 @@ nav h1 span{
 
     nav{
         height:auto;
+        width:100vw;
         padding:15px 20px;
         margin-top:0;
         flex-direction:row;
